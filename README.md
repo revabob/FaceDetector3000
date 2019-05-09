@@ -1,5 +1,6 @@
 # FaceDetector3000
 Builds a dataset of facial images and uses HAAR Classifier to detect and display name of the person if present in the dataset of images.
+
 Steps to run progrram:
 
 1. cd to /FaceDetector3000
